@@ -152,7 +152,15 @@ flutter test test/task_model_test.dart
 ### Screenshots
  -
     <p align="center">
-      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/LoginPage.jpg" width="250" style="margin-right: 20px">
-      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/SignupPage.jpg" width="250" style="margin-right: 20px">
-       <img src="https://github.com/shubhnesh/Task-Pragati/blob/main/Screenshots/dark_mode.jpg" width="250">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/LoginPage.jpg" width="250">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/SignupPage.jpg" width="250">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/DashboardScreen.jpg" width="250">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250"">
+    </p>   
+
+    <p align="center">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/editTaskDialog.jpg" width="250">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/PendingTask.jpg" width="250"">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/CompletedTask.jpg" width="250"">
     </p>
