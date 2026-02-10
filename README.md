@@ -149,7 +149,10 @@ To run the unit tests for the `Task` model, use the following command:
 ```bash
 flutter test test/task_model_test.dart
 ```
-
-## Author
-
-Manus AI
+### Screenshots
+ -
+    <p align="center">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/LoginPage.jpg" width="250" style="margin-right: 20px">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/SignupPage.jpg" width="250" style="margin-right: 20px">
+       <img src="https://github.com/shubhnesh/Task-Pragati/blob/main/Screenshots/dark_mode.jpg" width="250">
+    </p>
