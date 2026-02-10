@@ -9,7 +9,7 @@ Mini TaskHub is a simple yet effective personal task tracking application built 
 - **User Authentication**: Secure email/password authentication using Supabase.
 - **Task Management**: Add new tasks, mark tasks as completed, and delete tasks.
 - **Responsive UI**: Designed to adapt to various screen sizes.
-- **State Management**: Utilizes `provider` for efficient state management.
+- **State Management**: Utilizes `Riverpod` for efficient state management.
 - **Theming**: Custom light theme with Google Fonts integration.
 - **Basic Animations**: Subtle transitions for a better user experience.
 
@@ -17,8 +17,7 @@ Mini TaskHub is a simple yet effective personal task tracking application built 
 
 - **Flutter**: UI Toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Supabase**: Open-source Firebase alternative providing a PostgreSQL database, Authentication, instant APIs, and Realtime subscriptions.
-- **Provider**: A simple yet powerful state management solution for Flutter.
-- **Google Fonts**: For custom typography.
+- **Riverpod**: A simple yet powerful state management solution for Flutter.
 
 ## Setup Instructions
 
@@ -131,7 +130,8 @@ mini_taskhub/
 │   ├── dashboard/
 │   │   ├── dashboard_screen.dart
 │   │   ├── task_tile.dart
-│   │   └── task_model.dart
+│   │   ├── task_model.dart
+|   |   └── task_notifer.dart
 │   ├── services/
 │   │   └── supabase_service.dart
 │   └── utils/
@@ -155,12 +155,17 @@ flutter test test/task_model_test.dart
       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/LoginPage.jpg" width="250">
       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/SignupPage.jpg" width="250">
        <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/DashboardScreen.jpg" width="250">
-       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250"">
-    </p>   
+    </p>
+    
 
     <p align="center">
-      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250">
-       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/editTaskDialog.jpg" width="250">
-       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/PendingTask.jpg" width="250"">
-       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/CompletedTask.jpg" width="250"">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250"">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/PendingTask.jpg" width="250"">
+      <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/editTaskDialog.jpg" width="250">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/CompletedTask.jpg" width="250">
+    </p>
+
+
+    <p align="center">
+       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/CompletedTask.jpg" width="250">
     </p>
