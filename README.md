@@ -162,7 +162,6 @@ flutter test test/task_model_test.dart
        <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/addTaskDialog.jpg" width="250"">
       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/PendingTask.jpg" width="250"">
       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/editTaskDialog.jpg" width="250">
-       <img src="https://github.com/shubhnesh/TaskHub/blob/main/Screenshots/CompletedTask.jpg" width="250">
     </p>
 
 
